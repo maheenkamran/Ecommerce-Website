@@ -176,7 +176,7 @@ function Cart() {
                                                             <img src={productList[index].image} alt="product-image"></img>
                                                             <div className='item-info'>
                                                                 <div className='c-productname'> {productList[index].name}  </div>
-                                                                <div className='c-properties'>properties</div>
+                                                                <div className='c-properties'></div>
                                                             </div>
 
                                                             <div className='qty-bill'>

@@ -2,13 +2,14 @@
     display: flex;
     justify-content: center;
     background-color: rgb(146, 145, 145);
+    padding: 25px;
 }
 
 .pop-up {
     width: 350px;
     height: 450px;
     margin-bottom: 0px;
-    margin: 20px 0px 0px 0px;
+    margin: 0px 0px 0px 0px;
     border-radius: 25px;
     background-color: white;
     box-shadow: 0px 4px 10px rgba(72, 71, 71, 0.5);
